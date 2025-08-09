@@ -8,7 +8,7 @@ The project focuses on modularity, adjustability, and pressure distribution to r
 ## 📂 Contents
 - **`Proposal_CerebralPalsyChair.pdf`** — Project proposal document with background, objectives, and initial design concepts.
 - **`images/`** — High-quality renders and exploded views of the chair design.
-- **`Drawings/`** — Engineering drawings and CAD exports.
+- **`SampleDrawings.pfd/`** — Sample of Engineering drawings and CAD exports.
 
 ---
 
