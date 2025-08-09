@@ -2,12 +2,13 @@
 
 This repository contains the design and documentation for a **custom assistive chair** developed to improve comfort, posture, and functional support for individuals with Cerebral Palsy (CP).  
 The project focuses on modularity, adjustability, and pressure distribution to reduce fatigue and improve daily usability.
+
 ![Rendered Chair View](images/cp_render.jpg)
 ---
 
 ## 📂 Contents
 - **`Proposal_CerebralPalsyChair.pdf`** — Project proposal document with background, objectives, and initial design concepts.
-- **`images/`** — High-quality renders and exploded views of the chair design.
+- **`images/`** — High-quality render of the chair and some sample parts and mechanisms.
 - **`SampleDrawings.pdf`** — Sample of Engineering drawings and CAD exports.
 
 ---
