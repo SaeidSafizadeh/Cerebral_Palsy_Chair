@@ -28,7 +28,7 @@ The project focuses on modularity, adjustability, and pressure distribution to r
 - **Modular Frame** for easy assembly and maintenance.
 
 ---
+
 ## 📧 Contact
 **Mohammadsaeid Safizadeh**  
-[LinkedIn](https://www.linkedin.com/in/saeid-safizadeh) · [Email](mailto:ms.safizadeh@gmail.com)
-[Website](https://mech.sharif.edu/~ms.safizadeh/)
+[Personal Website](https://mech.sharif.edu/~ms.safizadeh) · [LinkedIn](https://www.linkedin.com/in/saeid-safizadeh) · [Email](mailto:ms.safizadeh@gmail.com)
