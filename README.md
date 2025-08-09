@@ -6,11 +6,9 @@ The project focuses on modularity, adjustability, and pressure distribution to r
 ---
 
 ## 📂 Contents
-- **`index.html`** — Web presentation page (GitHub Pages) with renderings, descriptions, and project details.
-- **`images/`** — High-quality renders and exploded views of the chair design.
 - **`Proposal_CerebralPalsyChair.pdf`** — Project proposal document with background, objectives, and initial design concepts.
+- **`images/`** — High-quality renders and exploded views of the chair design.
 - **`Drawings/`** — Engineering drawings and CAD exports.
-- **`Documents/`** — Additional project-related materials.
 
 ---
 
@@ -29,19 +27,7 @@ The project focuses on modularity, adjustability, and pressure distribution to r
 - **Modular Frame** for easy assembly and maintenance.
 
 ---
-
-## 📥 Downloads
-- **[Download Project Proposal (PDF)](https://github.com/SaeidSafizadeh/Cerebral_Palsy_Chair/raw/main/Proposal_CerebralPalsyChair.pdf)**  
-  *(Includes background research, requirements, and initial design sketches)*
-
----
-
-## 🌐 Live Webpage
-You can view the full web presentation of the project (including images and descriptions) here:  
-**[Cerebral Palsy Chair — GitHub Pages](https://saeidsafizadeh.github.io/Cerebral_Palsy_Chair/)**
-
----
-
 ## 📧 Contact
 **Mohammadsaeid Safizadeh**  
 [LinkedIn](https://www.linkedin.com/in/saeid-safizadeh) · [Email](mailto:ms.safizadeh@gmail.com)
+[Website](https://mech.sharif.edu/~ms.safizadeh/)
